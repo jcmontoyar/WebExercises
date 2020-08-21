@@ -1,0 +1,22 @@
+h1{
+  color: red;
+  font-size: 30px;   
+}
+
+.azulH{
+  color: blue;
+}
+
+.naranjaH{
+  color: orange;
+}
+
+.center {
+  text-align: center;
+}
+
+.centerBlue {
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}

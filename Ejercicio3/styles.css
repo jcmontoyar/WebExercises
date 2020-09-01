@@ -1,0 +1,31 @@
+.banner{
+    background-color: grey;
+}
+
+.leftMenu{
+    background-color: orange;
+}
+
+.topMenu{
+    background-color: coral;
+}
+
+.content{
+    background-color: white;
+}
+
+.photoAzul{
+    background-color: rgb(70, 70, 163);
+}
+
+.photoRed{
+    background-color: lightcoral;
+}
+
+.altura{
+    height: 200px;
+}
+
+.backgroundWhite{
+    background-color:  white;
+}
